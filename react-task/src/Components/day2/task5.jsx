@@ -15,7 +15,4 @@ function Task5({ email, name }) {
     </div>
   );
 }
-
-
-
 export default Task5;
